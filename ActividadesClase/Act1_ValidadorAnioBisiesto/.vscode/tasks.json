@@ -1,0 +1,30 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+	  {
+		"type": "cppbuild",
+		"label": "C/C++: g++.exe build proyecto completo",
+		"command": "C:\\MinGW\\bin\\g++.exe",
+		"args": [
+		  "-fdiagnostics-color=always",
+		  "-g",
+		  "${workspaceFolder}/controller/Anio.cpp",           // Ruta correcta a Anio.cpp
+		  "${workspaceFolder}/controller/Fecha.cpp",          // Ruta correcta a Fecha.cpp
+		  "${workspaceFolder}/controller/ValidarDatos.cpp",   // Ruta correcta a ValidarDatos.cpp
+		  "${workspaceFolder}/view/main.cpp",                 // Ruta correcta a main.cpp en view
+		  "-I", "${workspaceFolder}/model",                   // Directorio de los archivos .h
+		  "-o", "${workspaceFolder}/mi_programa.exe"          // Nombre del ejecutable
+		],
+		"options": {
+		  "cwd": "${workspaceFolder}"  // Asegúrate de que el directorio de trabajo es la raíz de tu proyecto
+		},
+		"problemMatcher": [
+		  "$gcc"
+		],
+		"group": "build",
+		"detail": "compiler: C:\\MinGW\\bin\\g++.exe"
+	  }
+	]
+  }
+
+  

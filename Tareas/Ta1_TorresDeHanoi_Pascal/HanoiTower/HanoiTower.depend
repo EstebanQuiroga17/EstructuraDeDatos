@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1745891572 source:c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\t1_torresdehanoi\hanoitower\disc.cpp
+	"Disc.h"
+
+1745891572 c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\t1_torresdehanoi\hanoitower\disc.h
+
+1745960312 source:c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\t1_torresdehanoi\hanoitower\main.cpp
+	"Model/HanoiTower.h"
+	"Model/ValidarDatos.h"
+
+1745897359 source:c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\t1_torresdehanoi\hanoitower\hanoitowers.cpp
+	"HanoiTowers.h"
+
+1745895964 c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\t1_torresdehanoi\hanoitower\tower.h
+	"Disc.h"
+	<vector>
+
+1745938792 c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\t1_torresdehanoi\hanoitower\hanoitowers.h
+
+1745959076 source:c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\t1_torresdehanoi\hanoitower\hanoitower.cpp
+	"HanoiTower.h"
+
+1745959076 c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\t1_torresdehanoi\hanoitower\hanoitower.h
+	<vector>
+	<string>
+	<iostream>
+
+1745959641 source:c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\t1_torresdehanoi\hanoitower\validardatos.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"ValidarDatos.h"
+
+1745787767 c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\t1_torresdehanoi\hanoitower\validardatos.h
+
+1745960244 source:c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\t1_torresdehanoi\hanoitower\controller\hanoitower.cpp
+	"../Model/HanoiTower.h"
+
+1745959076 c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\t1_torresdehanoi\hanoitower\model\hanoitower.h
+	<vector>
+	<string>
+	<iostream>
+
+1745787767 c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\t1_torresdehanoi\hanoitower\model\validardatos.h
+
+1745960321 source:c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\t1_torresdehanoi\hanoitower\controller\validardatos.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"../Model/ValidarDatos.h"
+

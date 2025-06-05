@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1745983162 source:c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\ta1_torresdehanoi_pascal\triangulodepascal\triangulopascal\controller\validador.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"../Model/Validador.h"
+
+1745983162 c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\ta1_torresdehanoi_pascal\triangulodepascal\triangulopascal\model\validador.h
+
+1745983393 source:c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\ta1_torresdehanoi_pascal\triangulodepascal\triangulopascal\controller\triangulopascal.cpp
+	<iostream>
+	"../Model/TrianguloPascal.h"
+
+1745983501 c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\ta1_torresdehanoi_pascal\triangulodepascal\triangulopascal\model\triangulopascal.h
+
+1745983461 source:c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\ta1_torresdehanoi_pascal\triangulodepascal\triangulopascal\src\main.cpp
+	<iostream>
+	"../Model/TrianguloPascal.h"
+	"../Model/Validador.h"
+

@@ -1,0 +1,44 @@
+{
+    "personas": [
+        {
+            "apellido": "Perez",
+            "cedula": "0102030405",
+            "correo": "jcperez@email.com",
+            "idPersona": 1,
+            "nombre": "Juan",
+            "segundoNombre": "Carlos"
+        },
+        {
+            "apellido": "Garcia",
+            "cedula": "0504030201",
+            "correo": "amgarcia@email.com",
+            "idPersona": 2,
+            "nombre": "Ana",
+            "segundoNombre": "Maria"
+        },
+        {
+            "apellido": "",
+            "cedula": "4545",
+            "correo": "JC@espe.edu.ec",
+            "idPersona": 554,
+            "nombre": "Juan",
+            "segundoNombre": "Carlos"
+        },
+        {
+            "apellido": "",
+            "cedula": "545454",
+            "correo": "JC1@espe.edu.ec",
+            "idPersona": 444545,
+            "nombre": "Juan",
+            "segundoNombre": "Carlos"
+        },
+        {
+            "apellido": "",
+            "cedula": "1805477393",
+            "correo": "KJ@espe.edu.ec",
+            "idPersona": 555,
+            "nombre": "Kevin",
+            "segundoNombre": "Jose"
+        }
+    ]
+}

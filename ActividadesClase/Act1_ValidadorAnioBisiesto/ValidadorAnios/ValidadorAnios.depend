@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1746637760 source:c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\talleres\taller1\validadoranios\main.cpp
+	<stdio.h>
+	"../model/validarDatos.h"
+	"../model/Anio.h"
+	"../model/Fecha.h"
+
+1745787767 c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\talleres\taller1\model\validardatos.h
+
+1746638548 source:c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\talleres\taller1\controller\anio.cpp
+	"../model/Anio.h"
+	"../model/ValidarDatos.h"
+
+1746638535 c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\talleres\taller1\model\anio.h
+
+1746638450 source:c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\talleres\taller1\controller\fecha.cpp
+	"../model/Fecha.h"
+	"../model/Anio.h"
+	<stdio.h>
+
+1746638450 c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\talleres\taller1\model\fecha.h
+	"Anio.h"
+
+1746584726 source:c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\talleres\taller1\controller\validardatos.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"../model/ValidarDatos.h"
+

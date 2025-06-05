@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1745964640 source:c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\ta2_fechasdepago\fechaspago\fechaspago\fechapago.cpp
+	"FechaPago.h"
+	"ValidacionesFecha.h"
+	<iostream>
+
+1745964641 c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\ta2_fechasdepago\fechaspago\fechaspago\fechapago.h
+
+1745964642 c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\ta2_fechasdepago\fechaspago\fechaspago\validacionesfecha.h
+
+1745964641 source:c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\ta2_fechasdepago\fechaspago\fechaspago\main.cpp
+	"FechaPago.h"
+
+1745964642 source:c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\ta2_fechasdepago\fechaspago\fechaspago\validacionesfecha.cpp
+	"ValidacionesFecha.h"
+

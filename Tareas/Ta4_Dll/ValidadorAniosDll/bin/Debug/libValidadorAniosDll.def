@@ -1,0 +1,5 @@
+EXPORTS
+    _ZN7dllspec14ValidadorDatos10validarDiaEii @1
+    _ZN7dllspec14ValidadorDatos10validarMesEii @2
+    _ZN7dllspec14ValidadorDatos14validarNumerosEPc @3
+    _ZN7dllspec14ValidadorDatos19validarAnioBisiestoEi @4

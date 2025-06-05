@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1746413591 source:c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\ta3_matricespunteros\matrices\controller\matrix.cpp
+	<stdio.h>
+	<cstdlib>
+	"../Model/Matrix.h"
+	"../Model/ValidarDatos.h"
+
+1746396147 source:c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\ta3_matricespunteros\matrices\view\main.cpp
+	<iostream>
+	"../Model/Matrix.h"
+	"../Model/Operation.h"
+
+1746465897 source:c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\ta3_matricespunteros\matrices\controller\operation.cpp
+	<stdio.h>
+	"../Model/Operation.h"
+	"../Model/Matrix.h"
+
+1746465770 c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\ta3_matricespunteros\matrices\model\operation.h
+	"Matrix.h"
+
+1746466091 c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\ta3_matricespunteros\matrices\model\matrix.h
+
+1746329739 source:c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\ta3_matricespunteros\matrices\controller\validardatos.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"../Model/ValidarDatos.h"
+
+1745787767 c:\users\tevs\desktop\espe\tareas\tercersemestre\estructuradedatos\tareas\ta3_matricespunteros\matrices\model\validardatos.h
+
